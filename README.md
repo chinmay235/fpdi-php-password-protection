@@ -28,7 +28,7 @@ fpdi password protection
         }
     
         //Password for the PDF file (I suggest using the email adress of the purchaser).
-        $password = "password";
+        $password = "chinmay235@gmail.com";
         //Name of the original file (unprotected).
         $origFile = "pdf.pdf";
         //Name of the destination file (password protected and printing rights removed).
